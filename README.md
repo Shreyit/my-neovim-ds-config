@@ -35,4 +35,4 @@ A modern Neovim configuration tailored for data science, analytics, and scientif
 1. Install Neovim (v0.8+)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/Shreyit/REPO_NAME.git ~/.config/nvim
+   git clone https://github.com/Shreyit/my-neovim-ds-config.git ~/.config/nvim
